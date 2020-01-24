@@ -1,1 +1,1 @@
-# Contiki_IOT
+# EEEM048 Coursework
